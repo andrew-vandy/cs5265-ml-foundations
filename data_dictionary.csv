@@ -1,0 +1,21 @@
+feature,description
+CustomerID,Unique customer ID
+Churn,Churn flag
+Tenure,Tenure of a customer in the organization
+PreferredLoginDevice,Preferred login device of a customer
+CityTier,City tier
+WarehouseToHome,Distance from warehouse to home of a customer
+PreferredPaymentMode,Preferred payment method of a customer
+Gender,Gender of a customer
+HourSpendOnApp,Number of hours spent on mobile application or website
+NumberOfDeviceRegistered,Total number of devices registered to a customer
+PreferedOrderCat,Preferred order category of a customer in the last month
+SatisfactionScore,Satisfactory score of a customer on a given service
+MaritalStatus,Marital status
+NumberOfAddress,Total number of addresses associated with a customer
+Complain,Any complaint raised by a customer in the last month
+OrderAmountHikeFromlastYear,Percentage increase in order from last year
+CouponUsed,Total number of coupons used in the last month
+OrderCount,Total number of orders placed in the last month
+DaySinceLastOrder,Day since the last order was placed by a customer
+CashbackAmount,Average cashback in last month
