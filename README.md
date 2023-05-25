@@ -1,8 +1,12 @@
-# CS5265 Foundations of Machine Learning
+## Project Description
 
 Customer churn is a major issue eCommerce businesses face. It is defined as the percentage of customers lost over a given period of time. According to customer data at Gorgias, repeat customers account only 21% of customers, but generate 44% of revenue and 46% of orders. Therefore, it has become increasingly important to identify and mitigate factors that cause customer churn.
 
 According to customer churn analysis, decreasing monthly churn by just 5 customers (at a monthly contract size of $4,166) can save your business upwards of $250,000 a year. Market watcher Park Associates reports that Netflix lost about 9% of its subscriber base over a recent 12-month period compared with about 50% churn at Hulu. Acquiring new customers is far more expensive than retaining existing customers. It can cost up to 5 times more to acquire a new customer as it does to retain current ones.
+
+## Data Source
+
+I am going to use this data source: https://www.kaggle.com/datasets/ankitverma2010/ecommerce-customer-churn-analysis-and-prediction
 
 ## Performance Metrics
 
@@ -41,3 +45,11 @@ We will use the churn flag to indicate if a customer has churned or not. If we a
   This the harmonic mean of **Precision** and **Recall**
 
   F1 = 2 * ((Precision * Recall)/(Precision + Recall))
+  
+## Resources
+
+* Simple guide to confusion matrix: https://www.dataschool.io/simple-guide-to-confusion-matrix-terminology/
+* Challenges of building a churn model: https://pobuca.com/the-challenges-of-building-a-churn-model/
+* Unraveling churn: https://towardsdatascience.com/unraveling-churn-and-its-challenges-a207276ff4a9
+* Jupyter Notebooks: https://jupyterbook.org/en/stable/file-types/notebooks.html
+
